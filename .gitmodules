@@ -1,0 +1,3 @@
+[submodule "brock.ada/themes/ananke"]
+	path = brock.ada/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
